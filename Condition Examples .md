@@ -15,9 +15,15 @@ The following are examples of conditions noted in the original object metada in 
 ### Additional unidentified audio tape stock spliced into the tape pack 
 ![](multiStock_1.jpg). 
 
-### Failed tape splice 
+### Failed tape splice   
+
+Desicated adhesive. 
 ![](splice_1a.jpg). 
-  
+
+Soft oozing adhesive.  
+
+![](splice_2.jpg). 
+
 ### Water or liquid damage
 ![](waterdamage_1.jpg). 
 
