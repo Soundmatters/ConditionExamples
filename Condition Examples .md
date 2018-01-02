@@ -38,3 +38,24 @@ The following are examples of conditions noted in the original object metada in 
 
 ### Damaged leader tape. 
 <p align="center"><img src="damagedLeader_1.jpg" /></p>
+  
+### Soft Binder Syndrome. 
+
+The following tape formulations typically suffer from soft binder syndrome. Other formulations may also be at risk as well.
+
+Scotch / 3M: 175   
+Sony: PR-150   
+Melody: 169   
+Pyral : various formulations   
+
+### Sticky Shed Syndrome
+  
+  
+The following tape formulations typically suffer from sticky shed syndrome.  Other formulations may also be at risk as well.  
+
+
+Agfa: PEM 468 (Pre-1990) and PEM 469      
+Ampex/Quantegy:  406, 407, 456, 457 and 478.    
+Audiotape/Capitol: Q15 (Early 1980s ). 
+Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
+
