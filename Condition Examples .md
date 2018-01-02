@@ -37,4 +37,4 @@ The following are examples of conditions noted in the original object metada in 
 <p align="center"><img src="shrunken_1.jpg" /></p>
 
 ### Damaged leader tape. 
-<p align="center"><img src="shrunken_1.jpg" /></p>
+<p align="center"><img src="damagedLeader_1.jpg" /></p>
