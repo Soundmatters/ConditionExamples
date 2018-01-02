@@ -17,12 +17,14 @@ The following are examples of conditions noted in the original object metada in 
 
 ### Failed tape splice   
 
-Example 1, desicated splice adhesive. 
+*Example 1, desicated splice adhesive* 
 ![](splice_1a.jpg). 
 
-Example 2, soft migrated splice adhesive.  
+*Example 2, oozing splice adhesive which has migrated to the pack surface*  
 <p align="center"><img src="splice_2.jpg" /></p>. 
-
+  
+*Example 3, separated splice**  
+<p align="center"><img src="splice_3.jpg" /></p>
 
 ### Water or liquid damage
 ![](waterdamage_1.jpg). 
@@ -32,5 +34,5 @@ Example 2, soft migrated splice adhesive.
 ![](wind_2.jpg)
 
 ### Shrunken tape base 
-<p align="center"><img src="sshrunken_1.jpg" /></p>
+<p align="center"><img src="shrunken_1.jpg" /></p>
 
