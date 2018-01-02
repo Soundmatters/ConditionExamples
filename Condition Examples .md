@@ -2,7 +2,7 @@
 
   
 ## Overview. 
-The following are examples of conditions noted in the original object metada in the Himan Brown audio collections.  
+The following are examples of the conditions noted in the original object metada in the Himan Brown audio collections.  
 
 ## Condition examples
 
