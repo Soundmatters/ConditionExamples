@@ -1,4 +1,4 @@
-# Condition Summary Descriptions. 
+# Condition Summary Description Examples. 
 
   
 ## Overview. 
