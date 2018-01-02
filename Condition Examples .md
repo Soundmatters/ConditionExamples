@@ -17,10 +17,10 @@ The following are examples of conditions noted in the original object metada in 
 
 ### Failed tape splice   
 
-Desicated adhesive. 
+Example 1, desicated splice adhesive. 
 ![](splice_1a.jpg). 
 
-Soft oozing adhesive.  
+Example 2, soft migrated splice adhesive.  
 <p align="center"><img src="splice_2.jpg" /></p>. 
 
 
