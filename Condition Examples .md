@@ -36,3 +36,5 @@ The following are examples of conditions noted in the original object metada in 
 ### Shrunken tape base 
 <p align="center"><img src="shrunken_1.jpg" /></p>
 
+### Damaged leader tape. 
+<p align="center"><img src="shrunken_1.jpg" /></p>
