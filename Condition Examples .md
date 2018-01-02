@@ -7,9 +7,9 @@ The following are examples of conditions noted in the original object metada in 
 ## Condition examples
 
 ### Loss in the emulsion layer of audio tape.  
-![](emusion_1.jpg). 
+<p align="center"><img src="emusion_1.jpg" /></p>. 
 
-### Mold contamination.  
+### Mold contamination.  
 ![](mold_1.jpg). 
 
 ### Additional unidentified audio tape stock spliced into the tape pack 
@@ -21,8 +21,8 @@ Desicated adhesive.
 ![](splice_1a.jpg). 
 
 Soft oozing adhesive.  
+<p align="center"><img src="splice_2.jpg" /></p>. 
 
-![](splice_2.jpg). 
 
 ### Water or liquid damage
 ![](waterdamage_1.jpg). 
@@ -32,4 +32,5 @@ Soft oozing adhesive.
 ![](wind_2.jpg)
 
 ### Shrunken tape base 
-![](shrunken_1.jpg).
+<p align="center"><img src="sshrunken_1.jpg" /></p>
+
