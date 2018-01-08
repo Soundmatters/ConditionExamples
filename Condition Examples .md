@@ -58,4 +58,18 @@ Agfa: PEM 468 \(Pre-1990\) and PEM 469
 Ampex/Quantegy:  406, 407, 456, 457 and 478.    
 Audiotape/Capitol: Q15 \(Early 1980s\)  
 Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
-
+  
+  ### Azimuth varies throughout.  
+  
+  Programs in the Himan Brown tape collection are often open-reel tape with multiple edits; the azimuth among the edited tape is often unrelated.
+  
+  The following is an example of phase analysis of four excerpts from a single program in azimuth in a single program:  
+  
+*Example 1, calibration tone.*  
+![](phase_calib.jpg). 
+*Example 2, first edit.*  
+![](phase_edit1.jpg). 
+*Example 3, second edit.*   
+![](phase_edit2.jpg).
+*Example 4, third edit.* 
+![](phase_edit3.jpg). 
