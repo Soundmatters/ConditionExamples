@@ -61,9 +61,9 @@ Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
   
   ### Azimuth varies throughout.  
   
-  Programs in the Himan Brown tape collection are often recorded on open-reel tape and produced with multiple edits within a single program. The azimuth among the sections of edited tape in these programs often varies.
+  Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of edited tape in these programs often varies.
   
-  The following is an example of phase analysis of four excerpts from a single program. The azimuth of the calibration tone was adusted for maximum response; the azimuth for the three edits which follow were unaltered:  
+  The following is an example of phase analysis of four excerpts from a single program.  The changes in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
   
 *Example 1, calibration tone phase.*  
 ![](phase_calib.jpg)  
