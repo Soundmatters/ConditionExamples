@@ -24,13 +24,20 @@ The following are examples of the conditions noted in the original object metada
 <p align="center"><img src="splice_2.jpg" /></p>. 
   
 *Example 3, separated splice**  
-<p align="center"><img src="splice_3.jpg" /></p>
+<p align="center"><img src="splice_3.jpg" /></p>  
+
+*Example 4, mis-applied splicing tape**  
+<p align="center"><img src="splice_4.jpg" /></p>
 
 ### Water or liquid damage
 ![](waterdamage_1.jpg). 
 
-### Not stored in an archival wind 
-![](wind_1.jpg).   
+### Not stored in an archival wind  
+
+*Example 1*  
+![](wind_1.jpg)  
+
+*Example 2*  
 ![](wind_2.jpg)
 
 ### Shrunken tape base 
@@ -41,23 +48,23 @@ The following are examples of the conditions noted in the original object metada
   
 ### Soft Binder Syndrome. 
 
-The following tape formulations typically suffer from soft binder syndrome. Other formulations may also be at risk as well.
+The following tape formulations typically suffer from soft binder syndrome. Other formulations, not listed here, may also be at risk.
 
-Scotch / 3M: 175   
-Sony: PR-150   
-Melody: 169   
-Pyral : various formulations   
+>Scotch / 3M: 175   
+>Sony: PR-150   
+>Melody: 169   
+>Pyral : various formulations   
 
 ### Sticky Shed Syndrome
   
   
-The following tape formulations typically suffer from sticky shed syndrome.  Other formulations may also be at risk as well.  
+The following tape formulations typically suffer from sticky shed syndrome.  Other formulations, not listed here, may also be at risk.
 
 
-Agfa: PEM 468 \(Pre-1990\) and PEM 469      
-Ampex/Quantegy:  406, 407, 456, 457 and 478.    
-Audiotape/Capitol: Q15 \(Early 1980s\)  
-Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
+>Agfa: PEM 468 \(Pre-1990\) and PEM 469      
+>Ampex/Quantegy:  406, 407, 456, 457 and 478.    
+>Audiotape/Capitol: Q15 \(Early 1980s\)  
+>Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
   
   ### Azimuth varies throughout.  
   
