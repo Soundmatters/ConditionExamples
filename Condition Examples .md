@@ -89,7 +89,7 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 Audio tape track-formatting found in the Himan Brown Collection.
 
 *Example, full-track*.  
-![](format_full.jpg)
+![](format_full_a.jpg)
   
   
 *Example, full-track*.  
