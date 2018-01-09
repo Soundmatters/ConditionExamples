@@ -83,3 +83,11 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 
 *Example 4, third edit phase.* 
 ![](phase_edit3.jpg) 
+  
+  ### Formatting. 
+  
+  *Example, full-track*. 
+  ![](format_full.jpg)
+    
+    *Example, full-track*.  
+     ![](format_two.jpg)
