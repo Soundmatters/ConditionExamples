@@ -96,5 +96,6 @@ Audio tape track-formatting found in the Himan Brown Collection.
 <p align="center"><img src="format_two.jpg" /></p>.
   
     
-### Failed container. 
-<p align="center"><img src="failedContainer_1" /></p>.
+### Failed container.  
+![](failedContainer_1.jpg)
+
