@@ -4,18 +4,17 @@
 ## Overview. 
 The following are examples of some of the conditions noted in the original object metada in the Himan Brown audio collections.  
 
-## Condition examples
 
-### Loss in the emulsion layer of audio tape.  
-<p align="center"><img src="emusion_1.jpg" /></p>. 
+## Loss in the emulsion layer of audio tape.  
+<p align="center"><img src="emulsion_2.jpg" /></p>. 
 
-### Mold contamination.  
+## Mold contamination.  
 ![](mold_1.jpg). 
 
-### Additional unidentified audio tape stock spliced into the tape pack 
+## Additional unidentified audio tape stock spliced into the tape pack 
 ![](multiStock_1.jpg). 
 
-### Failed tape splice   
+## Failed tape splice   
 
 *Example 1, desicated splice adhesive* 
 ![](splice_1a.jpg). 
@@ -29,10 +28,10 @@ The following are examples of some of the conditions noted in the original objec
 *Example 4, mis-aligned splicing tape**  
 <p align="center"><img src="splice_4.jpg" /></p>
 
-### Water or liquid damage
+## Water or liquid damage
 ![](waterdamage_1.jpg). 
 
-### Not stored in an "archival wind"  
+## Not stored in an "archival wind"  
 
 *Example 1*  
 ![](wind_1.jpg)  
@@ -40,13 +39,13 @@ The following are examples of some of the conditions noted in the original objec
 *Example 2*  
 ![](wind_2.jpg)
 
-### Shrunken and/or dimmensional change in the tape base 
+## Shrunken or other dimmensional change in the tape base 
 <p align="center"><img src="shrunken_1.jpg" /></p>
 
-### Damaged leader tape. 
+## Damaged leader tape. 
 <p align="center"><img src="damagedLeader_1.jpg" /></p>
   
-### Soft Binder Syndrome. 
+## Soft Binder Syndrome. 
 
 The following tape formulations typically suffer from soft binder syndrome. Other formulations, not listed here, may also be at risk.
 
@@ -55,7 +54,7 @@ The following tape formulations typically suffer from soft binder syndrome. Othe
 >Melody: 169   
 >Pyral : various formulations   
 
-### Sticky Shed Syndrome
+## Sticky Shed Syndrome
   
   
 The following tape formulations typically suffer from sticky shed syndrome.  Other formulations, not listed here, may also be at risk.
@@ -66,7 +65,7 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 >Audiotape/Capitol: Q15 \(Early 1980s\)  
 >Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
   
-  ### Azimuth varies throughout.  
+  ## Azimuth varies throughout.  
   
   Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of tape edited together in these programs often varies.
   
@@ -84,7 +83,7 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 *Example 4, third edit phase.* 
 ![](phase_edit3.jpg) 
   
-### Formatting. 
+## Formatting. 
 
 
 *Example, full-track*.  
@@ -95,8 +94,8 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 <p align="center"><img src="format_two.jpg" /></p>.
   
     
-### Damaged container.  
+## Damaged container.  
 ![](failedContainer_1.jpg)
 
-### Particulate matter. 
+## Dirt or other articulate matter. 
 ![](particulate_1.jpg)
