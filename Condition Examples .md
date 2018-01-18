@@ -2,7 +2,7 @@
 
   
 ## Overview. 
-The following are examples of the conditions noted in the original object metada in the Himan Brown audio collections.  
+The following are examples of some of the conditions noted in the original object metada in the Himan Brown audio collections.  
 
 ## Condition examples
 
@@ -26,13 +26,13 @@ The following are examples of the conditions noted in the original object metada
 *Example 3, separated splice**  
 <p align="center"><img src="splice_3.jpg" /></p>  
 
-*Example 4, mis-applied splicing tape**  
+*Example 4, mis-aligned splicing tape**  
 <p align="center"><img src="splice_4.jpg" /></p>
 
 ### Water or liquid damage
 ![](waterdamage_1.jpg). 
 
-### Not stored in an archival wind  
+### Not stored in an "archival wind"  
 
 *Example 1*  
 ![](wind_1.jpg)  
@@ -40,7 +40,7 @@ The following are examples of the conditions noted in the original object metada
 *Example 2*  
 ![](wind_2.jpg)
 
-### Shrunken tape base 
+### Shrunken and/or dimmensional change in the tape base 
 <p align="center"><img src="shrunken_1.jpg" /></p>
 
 ### Damaged leader tape. 
@@ -68,9 +68,9 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
   
   ### Azimuth varies throughout.  
   
-  Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of edited tape in these programs often varies.
+  Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of tape edited together in these programs often varies.
   
-  The following is an example of phase analysis of four excerpts from a single program.  The changes in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
+  The following is an example of phase analysis of four excerpts from a single program.  The changes  seen in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
   
 *Example 1, calibration tone phase.*  
 ![](phase_calib.jpg)  
@@ -86,7 +86,6 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
   
 ### Formatting. 
 
-Audio tape track-formatting found in the Himan Brown Collection.
 
 *Example, full-track*.  
 ![](format_full_a.jpg)
@@ -96,7 +95,7 @@ Audio tape track-formatting found in the Himan Brown Collection.
 <p align="center"><img src="format_two.jpg" /></p>.
   
     
-### Failed container.  
+### Damaged container.  
 ![](failedContainer_1.jpg)
 
 ### Particulate matter. 
