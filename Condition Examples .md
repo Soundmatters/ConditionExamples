@@ -39,7 +39,12 @@ The following are examples of some of the conditions noted in the original objec
 *Example 2*  
 ![](wind_2.jpg)
 
-## Shrunken or other dimmensional change in the tape base 
+## Dimmensional change in the tape base   
+*Example, creased and folded mylar base*.  
+
+<p align="center"><img src="shrunken_2.jpg" /></p>. 
+
+*Example, shrunken acetate base*.
 <p align="center"><img src="shrunken_1.jpg" /></p>
 
 ## Damaged leader tape. 
