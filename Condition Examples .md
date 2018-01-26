@@ -6,12 +6,15 @@ The following are examples of some of the conditions noted in the original objec
 
 
 ## Loss in the emulsion layer of audio tape.  
+*Example* 
 <p align="center"><img src="emulsion_2.jpg" /></p>. 
 
 ## Mold contamination.  
+*Example* 
 ![](mold_1.jpg). 
 
-## Additional unidentified audio tape stock spliced into the tape pack 
+## Additional unidentified audio tape stock spliced into the tape pack  
+*Example* 
 ![](multiStock_1.jpg). 
 
 ## Failed tape splice   
@@ -22,32 +25,29 @@ The following are examples of some of the conditions noted in the original objec
 *Example 2, oozing splice adhesive which has migrated to the pack surface*  
 <p align="center"><img src="splice_2.jpg" /></p>. 
   
-*Example 3, separated splice**  
-<p align="center"><img src="splice_3.jpg" /></p>  
+*Example 3, separated splice joint and mis-aligned splicing tape**  
+<p align="center"><img src="separated and misaligned.jpg" /></p>  
 
-*Example 4, mis-aligned splicing tape**  
-<p align="center"><img src="splice_4.jpg" /></p>
 
-## Water or liquid damage
+## Water or liquid damage. 
+*Example* 
 ![](waterdamage_1.jpg). 
 
 ## Not stored in an "archival wind"  
-
-*Example 1*  
-![](wind_1.jpg)  
-
-*Example 2*  
+ 
+*Example*  
 ![](wind_2.jpg)
 
 ## Dimmensional change in the tape base   
-*Example, creased and folded mylar base*.  
+*Example 1, creased and folded mylar base*.  
 
 <p align="center"><img src="shunken_2.jpg" /></p>. 
 
-*Example, shrunken acetate base*.
+*Example 2, shrunken acetate base*.
 <p align="center"><img src="shrunken_1.jpg" /></p>
 
-## Damaged leader tape. 
+## Damaged leader tape.  
+*Example* 
 <p align="center"><img src="damagedLeader_1.jpg" /></p>
   
 ## Soft Binder Syndrome. 
@@ -99,8 +99,10 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 <p align="center"><img src="format_two.jpg" /></p>.
   
     
-## Damaged container.  
+## Damaged container.   
+*Example* 
 ![](failedContainer_1.jpg)
 
-## Dirt or other articulate matter. 
+## Dirt or other articulate matter.   
+*Example* 
 ![](particulate_1.jpg)
