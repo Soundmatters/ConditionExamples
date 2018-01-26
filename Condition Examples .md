@@ -1,6 +1,6 @@
 # Condition Summary Description Examples. 
 
-  
+ 
 ## Overview. 
 The following are examples of some of the conditions noted in the original object metada in the Himan Brown audio collections.  
 
