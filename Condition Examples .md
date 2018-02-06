@@ -105,6 +105,6 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 *Example* 
 ![](failedContainer_1.jpg)
 
-## Dirt or other articulate matter.   
+## Dust or other particulate matter.   
 *Example* 
 ![](particulate_1.jpg)
