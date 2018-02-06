@@ -28,7 +28,7 @@ The following are examples of some of the conditions noted in the original objec
 *Example 3, separated splice joint and mis-aligned splicing tape**  
 <p align="center"><img src="separated and misaligned.jpg" /></p>  
 
-*Example 4, separated splice joint and mis-aligned splicing tape**  
+*Example 4, mis-aligned splicing tape prodtruding**  
 <p align="center"><img src="splice_5.jpg" /></p> 
 
 ## Water or liquid damage. 
