@@ -1,23 +1,52 @@
-# Condition Summary Description Examples. 
+# Condition Summary Description Examples 
 
  
 ## Overview. 
 The following are examples of some of the conditions noted in the original object metada in the Himan Brown audio collections.  
 
 
-## Loss in the emulsion layer of audio tape.  
-*Example* 
-<p align="center"><img src="emulsion_2.jpg" /></p>. 
-
-## Mold contamination.  
-*Example* 
-![](mold_1.jpg). 
-
 ## Additional unidentified audio tape stock spliced into the tape pack  
 *Example* 
-![](multiStock_1.jpg). 
+![](multiStock_1.jpg).
+  
+## Azimuth varies throughout.  
+  
+  Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of tape edited together in these programs often varies.
+  
+  The following is an example of phase analysis of four excerpts from a single program.  The changes  seen in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
+  
+*Example 1, calibration tone phase.*  
+![](phase_calib.jpg)  
 
-## Failed tape splice   
+*Example 2, first edit phase.*  
+![](phase_edit1.jpg)  
+
+*Example 3, second edit phase.*   
+![](phase_edit2.jpg)  
+
+*Example 4, third edit phase.* 
+![](phase_edit3.jpg)   
+   
+ ## Damaged container.   
+*Example* 
+![](failedContainer_1.jpg)
+    
+## Damaged leader tape.  
+*Example* 
+<p align="center"><img src="damagedLeader_1.jpg" /></p>
+
+## Dimmensional change in the tape base   
+*Example 1, creased and folded mylar base*.  
+
+<p align="center"><img src="shunken_2.jpg" /></p>. 
+
+*Example 2, shrunken acetate base*.
+<p align="center"><img src="shrunken_1.jpg" /></p>   
+  
+## Dust or other particulate matter.   
+*Example* 
+![](particulate_1.jpg). 
+## Failed tape splice  
 
 *Example 1, desicated splice adhesive* 
 ![](splice_1a.jpg). 
@@ -30,28 +59,29 @@ The following are examples of some of the conditions noted in the original objec
 
 *Example 4, mis-aligned splicing tape prodtruding**  
 <p align="center"><img src="splice_5.jpg" /></p> 
+    
+## Formatting. 
 
-## Water or liquid damage. 
+*Example, full-track*.  
+![](format_full_a.jpg)
+  
+  
+*Example, two-track*.  
+<p align="center"><img src="format_two.jpg" /></p>.  
+
+## Loss in the emulsion layer of audio tape.  
 *Example* 
-![](waterdamage_1.jpg). 
+<p align="center"><img src="emulsion_2.jpg" /></p>. 
+
+## Mold contamination.  
+*Example* 
+![](mold_1.jpg). 
 
 ## Not stored in an "archival wind"  
  
 *Example*  
 ![](wind_2.jpg)
 
-## Dimmensional change in the tape base   
-*Example 1, creased and folded mylar base*.  
-
-<p align="center"><img src="shunken_2.jpg" /></p>. 
-
-*Example 2, shrunken acetate base*.
-<p align="center"><img src="shrunken_1.jpg" /></p>
-
-## Damaged leader tape.  
-*Example* 
-<p align="center"><img src="damagedLeader_1.jpg" /></p>
-  
 ## Soft Binder Syndrome. 
 
 The following tape formulations typically suffer from soft binder syndrome. Other formulations, not listed here, may also be at risk.
@@ -72,39 +102,6 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
  * Audiotape/Capitol: Q15 \(Early 1980s\)  
  * Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
   
-  ## Azimuth varies throughout.  
-  
-  Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of tape edited together in these programs often varies.
-  
-  The following is an example of phase analysis of four excerpts from a single program.  The changes  seen in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
-  
-*Example 1, calibration tone phase.*  
-![](phase_calib.jpg)  
-
-*Example 2, first edit phase.*  
-![](phase_edit1.jpg)  
-
-*Example 3, second edit phase.*   
-![](phase_edit2.jpg)  
-
-*Example 4, third edit phase.* 
-![](phase_edit3.jpg) 
-  
-## Formatting. 
-
-
-*Example, full-track*.  
-![](format_full_a.jpg)
-  
-  
-*Example, two-track*.  
-<p align="center"><img src="format_two.jpg" /></p>.
-  
-    
-## Damaged container.   
+## Water or liquid damage. 
 *Example* 
-![](failedContainer_1.jpg)
-
-## Dust or other particulate matter.   
-*Example* 
-![](particulate_1.jpg)
+![](waterdamage_1.jpg). 
