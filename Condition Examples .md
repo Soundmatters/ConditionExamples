@@ -56,10 +56,10 @@ The following are examples of some of the conditions noted in the original objec
 
 The following tape formulations typically suffer from soft binder syndrome. Other formulations, not listed here, may also be at risk.
 
->Scotch / 3M: 175   
->Sony: PR-150   
->Melody: 169   
->Pyral : various formulations   
+ * Scotch / 3M: 175   
+ * Sony: PR-150   
+ * Melody: 169   
+ * Pyral : various formulations   
 
 ## Sticky Shed Syndrome
   
@@ -67,10 +67,10 @@ The following tape formulations typically suffer from soft binder syndrome. Othe
 The following tape formulations typically suffer from sticky shed syndrome.  Other formulations, not listed here, may also be at risk.
 
 
->Agfa: PEM 468 \(Pre-1990\) and PEM 469      
->Ampex/Quantegy:  406, 407, 456, 457 and 478.    
->Audiotape/Capitol: Q15 \(Early 1980s\)  
->Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
+ * Agfa: PEM 468 \(Pre-1990\) and PEM 469      
+ * Ampex/Quantegy:  406, 407, 456, 457 and 478.    
+ * Audiotape/Capitol: Q15 \(Early 1980s\)  
+ * Scotch/3M: 226, 227, 250, 806, 807, 808 and 809.  
   
   ## Azimuth varies throughout.  
   
@@ -97,7 +97,7 @@ The following tape formulations typically suffer from sticky shed syndrome.  Oth
 ![](format_full_a.jpg)
   
   
-*Example, full-track*.  
+*Example, two-track*.  
 <p align="center"><img src="format_two.jpg" /></p>.
   
     
