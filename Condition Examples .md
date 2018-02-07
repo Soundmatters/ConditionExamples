@@ -15,16 +15,16 @@ The following are examples of some of the conditions noted in the original objec
   
   The following is an example of phase analysis of four excerpts from a single program.  The changes  seen in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
   
-*Example 1, calibration tone phase.*  
+*Example 1, calibration tone phase analysis.*  
 ![](phase_calib.jpg)  
 
-*Example 2, first edit phase.*  
+*Example 2, first edit phase analysis.*  
 ![](phase_edit1.jpg)  
 
-*Example 3, second edit phase.*   
+*Example 3, second edit phase analysis.*   
 ![](phase_edit2.jpg)  
 
-*Example 4, third edit phase.* 
+*Example 4, third edit phase analysis.* 
 ![](phase_edit3.jpg)   
    
  ## Damaged container.   
