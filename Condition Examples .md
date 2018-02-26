@@ -38,7 +38,7 @@ The following are examples of some of the conditions noted in the original objec
 ## Dimmensional change in the tape base   
 *Example 1, creased and folded mylar base*.  
 
-<p align="center"><img src="shrunken_2.jpg" /></p>. 
+<p align="center"><img src="shunken_2.jpg" /></p>. 
 
 *Example 2, shrunken acetate base*.
 <p align="center"><img src="shrunken_1.jpg" /></p>   
