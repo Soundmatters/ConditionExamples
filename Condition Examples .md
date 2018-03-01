@@ -63,13 +63,13 @@ The following are examples of some of the conditions noted in the original objec
 ## Formatting. 
 
 *Example, full-track*.  
-![](format_full_a.jpg)
+![](format_full_edit.jpg)
 
 *Example, full-track with misaligned record head zenith*.  
 ![](zenith.jpg)
   
 *Example, two-track*.  
-<p align="center"><img src="format_two.jpg" /></p>.  
+<p align="center"><img src="format_two_edit.jpg" /></p>.  
 
 ## Loss in the emulsion layer of audio tape.  
 *Example* 
