@@ -64,7 +64,9 @@ The following are examples of some of the conditions noted in the original objec
 
 *Example, full-track*.  
 ![](format_full_a.jpg)
-  
+
+*Example, full-track with misaligned record head zenith*.  
+![](zenith.jpg)
   
 *Example, two-track*.  
 <p align="center"><img src="format_two.jpg" /></p>.  
