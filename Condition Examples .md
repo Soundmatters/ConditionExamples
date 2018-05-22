@@ -80,7 +80,7 @@ The following are examples of some of the conditions noted in the original objec
 ![](mold_1.jpg).   
 
 *Example 2* 
-![](mold_2.jpg).   
+![](mold_2.JPG).   
 
 *Example 3* 
 ![](mold_3.JPG).   
