@@ -88,10 +88,7 @@ The following are examples of some of the conditions noted in the original objec
 
 ## Not stored in an "archival wind"  
 
-*Example 1* 
-![](wind_1.jpg).
-
-*Example 2* 
+*Example* 
 ![](wind_2.jpg).
 
 ## Soft Binder Syndrome. 
