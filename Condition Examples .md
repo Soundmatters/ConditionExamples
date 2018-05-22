@@ -77,13 +77,15 @@ The following are examples of some of the conditions noted in the original objec
 
 ## Mold contamination.  
 *Example 1* 
-![](mold_1.jpg). 
+![](mold_1.jpg).   
 
 *Example 2* 
-![](mold_2.jpg). 
+![](mold_2.jpg).   
 
 *Example 3* 
-![](mold_2.JPG). 
+![](mold_2.JPG).   
+
+
 ## Not stored in an "archival wind"  
  
 *Example*  
