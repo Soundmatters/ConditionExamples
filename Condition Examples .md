@@ -76,13 +76,18 @@ The following are examples of some of the conditions noted in the original objec
 <p align="center"><img src="emulsion_2.jpg" /></p>. 
 
 ## Mold contamination.  
-*Example* 
+*Example 1* 
 ![](mold_1.jpg). 
 
+*Example 2* 
+![](mold_2.jpg). 
+
+*Example 3* 
+![](mold_1.jpg). 
 ## Not stored in an "archival wind"  
  
 *Example*  
-![](wind_2.jpg)
+![](wind_3.jpg)
 
 ## Soft Binder Syndrome. 
 
