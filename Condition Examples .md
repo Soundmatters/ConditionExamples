@@ -83,13 +83,11 @@ The following are examples of some of the conditions noted in the original objec
 ![](mold_2.jpg).   
 
 *Example 3* 
-![](mold_2.JPG).   
+![](mold_3.JPG).   
 
 
 ## Not stored in an "archival wind"  
- 
-*Example*  
-![](mold_3.JPG)
+
 
 ## Soft Binder Syndrome. 
 
