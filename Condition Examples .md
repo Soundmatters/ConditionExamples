@@ -11,7 +11,7 @@ The following are examples of some of the conditions noted in the original objec
   
 ## Azimuth varies throughout.  
   
-  Programs in the Himan Brown collection are often recorded on open-reel tape and produced with multiple physical edits within a single program. The azimuth among the sections of tape edited together in these programs often varies.
+  Open-reel tapes marked "copy 1" in  Himan Brown collection are produced with multiple physical edits within a single program. The azimuth between the sections of edited tape often varries significantly.
   
   The following is an example of phase analysis of four excerpts from a single program.  The changes  seen in the analysis suggests variation in azimuth among the examples. In the following set of examples, the playback deck reproduce head azimuth was aligned with the tape for maximum response in *Example 1, calibration tone phase*, and not realigned again for *Examples 2, 3 and 4*: 
   
