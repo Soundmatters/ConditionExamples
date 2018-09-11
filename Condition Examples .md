@@ -71,6 +71,11 @@ The following are examples of some of the conditions noted in the original objec
 *Example, two-track*.  
 <p align="center"><img src="format_two_edit.jpg" /></p>.  
 
+*Example, full-track with Nagra pilot*.
+<p align="center"><img src="FullTrack_with_Nagra_pilot_tone" /></p>.
+
+*Example, full-track with Nagra pilot*.
+<p align="center"><img src="FullTrack_with_Nagra_pilot_tone" /></p>.
 ## Loss in the emulsion layer of audio tape.  
 *Example* 
 <p align="center"><img src="emulsion_2.jpg" /></p>. 
