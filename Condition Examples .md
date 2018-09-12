@@ -116,7 +116,7 @@ The following are examples of some of the conditions noted in the original objec
 ![](wind_2.jpg).
 
 *Example, tape stored as a "pancake" --hub only, no flanges; also evident is an example of popped strands* 
-![](pancake.jpg).
+![](Pancake.jpg).
 
 ## Soft Binder Syndrome. 
 
