@@ -67,7 +67,7 @@ The following are examples of some of the conditions noted in the original objec
 <p align="center"><img src="splice_compound.jpg" /></p>
 
 *Example 6, oozing splicing tape adhesive on the emulsion layer of the audio tape adhering the deck heads **  
-<p align="center"><img src="splice_compound.jpg" /></p>
+<p align="center"><img src="Adhesive_on_transport.jpg" /></p>
     
 ## Formatting. 
 
