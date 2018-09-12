@@ -71,25 +71,25 @@ The following are examples of some of the conditions noted in the original objec
     
 ## Formatting. 
 
-*Example, full-track*.  
+*Example 1, full-track*.  
 ![](format_full_edit.jpg)
 
-*Example, full-track with error, likely caused by a misaligned record head*.  
+*Example 2, full-track with error, likely caused by a misaligned record head*.  
 ![](zenith-a.jpg)
   
-*Example, two-track*.  
+*Example 3, two-track*.  
 <p align="center"><img src="format_two_edit.jpg" /></p>.  
 
-*Example, quarter-track*.  
+*Example 4, quarter-track*.  
 <p align="center"><img src="Quarter_track.jpg" /></p>. 
 
-*Example, full-track with Nagra pilot*.
+*Example 5, full-track with Nagra pilot*.
 <p align="center"><img src="FullTrack_with_Nagra_pilot_tone.jpg" /></p>.
 
-*Example, full-track with Rangertone pilot*.
+*Example 6, full-track with Rangertone pilot*.
 <p align="center"><img src="Fulltrack_with_rangertone_pilot.jpg" /></p>.
 
-*Example, Rangertone pilot with no audio signal*.
+*Example 7, Rangertone pilot with no audio signal*.
 <p align="center"><img src="Rangertone_no_audio.jpg" /></p>.
 
 
@@ -100,26 +100,23 @@ The following are examples of some of the conditions noted in the original objec
 
 ## Mold contamination.  
 
-*Mold, Example 1* 
+*Example 1* 
 ![](mold_on_pack.JPG).
 
-*Mold, Example 2* 
+*Example 2* 
 ![](box_mold.JPG).
 
-*Mold, Example 3* 
+*Example 3* 
 ![](mold_1.jpg).   
-
-*Mold, Example 4* 
-![](mold_2.JPG).   
-
-*Mold, Example 5* 
-![](mold_3.JPG).   
-
+  
 
 ## Not stored in an "archival wind"  
 
 *Example* 
 ![](wind_2.jpg).
+
+*Example, tape stored as a "pancake" --hub only, no flanges; also evident is an example of popped strands* 
+![](pancake.jpg).
 
 ## Soft Binder Syndrome. 
 
