@@ -100,19 +100,19 @@ The following are examples of some of the conditions noted in the original objec
 
 ## Mold contamination.  
 
-*Example 1* 
+*Mold, Example 1* 
 ![](mold_on_pack.jpg).
 
-*Example 2* 
+*Mold, Example 2* 
 ![](box_mold.jpg).
 
-*Example 3* 
+*Mold, Example 3* 
 ![](mold_1.jpg).   
 
-*Example 4* 
+*Mold, Example 4* 
 ![](mold_2.JPG).   
 
-*Example 5* 
+*Mold, Example 5* 
 ![](mold_3.JPG).   
 
 
