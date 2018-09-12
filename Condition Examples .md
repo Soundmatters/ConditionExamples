@@ -101,10 +101,10 @@ The following are examples of some of the conditions noted in the original objec
 ## Mold contamination.  
 
 *Mold, Example 1* 
-![](mold_on_pack.jpg).
+![](mold_on_pack.JPG).
 
 *Mold, Example 2* 
-![](box_mold.jpg).
+![](box_mold.JPG).
 
 *Mold, Example 3* 
 ![](mold_1.jpg).   
