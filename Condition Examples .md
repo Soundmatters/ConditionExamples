@@ -42,7 +42,10 @@ The following are examples of some of the conditions noted in the original objec
 
 *Example 2, shrunken acetate base*.
 <p align="center"><img src="shrunken_1.jpg" /></p>   
-  
+
+*Example 2, shrunken acetate base*.
+<p align="center"><img src="Stretched_tape.jpg" /></p>   
+
 ## Dust or other particulate matter.   
 *Example* 
 ![](particulate_1.jpg). 
